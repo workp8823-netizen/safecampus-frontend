@@ -29,3 +29,10 @@ dist-ssr
 .env
 .env.*
 !.env.example
+
+# Scratch and test files
+test-socket.js
+test-socket.mjs
+test_harvard.js
+test_overpass.cjs
+test_overpass.js
